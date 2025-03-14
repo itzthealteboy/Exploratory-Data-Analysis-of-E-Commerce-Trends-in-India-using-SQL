@@ -114,4 +114,9 @@ WHERE date_diff < avg_month_diff;
 3. During our analysis, we observed an unusual sharp increase in the number of orders on Olist E-commerce on November 24, 2017, with a total of 1,176 orders. It was determined that this spike occurred due to Black Friday, a major sales event.
 4. The "Bed Bath Table" is the most ordered product on Olist E-commerce
 5. The estimated expected day of delivery varies across different months and years, with no discernible trend or pattern in how the delivery dates fluctuate.
-6. 
+
+This analysis provides a comprehensive view of the E-commerce and can help inform content stratergy and decision making.
+
+## Stay Updated 
+For more projects on SQL, data analysis and other related topics, make sure to follow me on social media
+
