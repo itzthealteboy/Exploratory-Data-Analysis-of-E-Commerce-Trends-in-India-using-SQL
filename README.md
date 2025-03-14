@@ -4,6 +4,9 @@
 ## Objective
 This project involves conducting an exploratory data analysis (EDA) on the dataset of an e-commerce platform operating in India. The primary goal is to extract meaningful insights to better understand customer behaviors, product trends, sales patterns, and delivery performance. By utilizing MySQL, the analysis covers various data points, including customer demographics, order details, product popularity, and delivery timelines.
 
+## Overview
+The goal of this data analysis project is to leverage SQL to gain insights from an e-commerce platform's data in order to improve decision-making, optimize business operations, and enhance customer experience
+
 ## Dataset
 The dataset for this project is sourced from the Kaggle dataset:
 - **Dataset Link:** [E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
@@ -104,3 +107,11 @@ AND order_delivered_customer_date IS NOT NULL
 )t
 WHERE date_diff < avg_month_diff;
 ```
+
+## Conclusion
+1. As a result of the exploratory analysis, we discovered that São Paulo has the highest number of customers, totaling 8,660. Following São Paulo, Rio de Janeiro ranks second in customer count.
+2. The total number of orders on Olist is 99,441.
+3. During our analysis, we observed an unusual sharp increase in the number of orders on Olist E-commerce on November 24, 2017, with a total of 1,176 orders. It was determined that this spike occurred due to Black Friday, a major sales event.
+4. The "Bed Bath Table" is the most ordered product on Olist E-commerce
+5. The estimated expected day of delivery varies across different months and years, with no discernible trend or pattern in how the delivery dates fluctuate.
+6. 
