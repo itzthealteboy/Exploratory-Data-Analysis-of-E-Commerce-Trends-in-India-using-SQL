@@ -8,4 +8,11 @@ This project involves conducting an exploratory data analysis (EDA) on the datas
 The dataset for this project is sourced from the Kaggle dataset:
 - **Dataset Link:** [E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
+- ## Business Problems and Solution
+- ### 1. Describe the dataset
+- ```sql
+  SELECT *
+FROM olist_customers_dataset;
+```
+
 - 
