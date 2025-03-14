@@ -119,4 +119,4 @@ This analysis provides a comprehensive view of the E-commerce and can help infor
 
 ## Stay Updated 
 For more projects on SQL, data analysis and other related topics, make sure to follow me on social media
-
+**Dataset Link:** [E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
