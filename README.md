@@ -15,6 +15,14 @@ The dataset for this project is sourced from the Kaggle dataset:
   SELECT *
   FROM olist_customers_dataset;
 ```
-**Objecties:** Determine the distribution of products on the E-commerce Platform
 
 ### 2. What is the customer distribution across different cities and states?
+```sql
+SELECT
+customer_city,
+customer_state,
+COUNT(*) as num_cust
+FROM olist_customers_dataset
+GROUP BY customer_city, customer_state
+ORDER BY COUNT(*) DESC;
+```
