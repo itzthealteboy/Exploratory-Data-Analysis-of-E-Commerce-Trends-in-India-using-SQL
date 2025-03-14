@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-of-E-Commerce-Trends-in-India-using-SQL
+# Exploratory Data Analysis of E-Commerce Trends in India using SQL
