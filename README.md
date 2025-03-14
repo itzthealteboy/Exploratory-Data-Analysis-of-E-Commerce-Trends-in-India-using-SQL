@@ -69,7 +69,7 @@ WHERE order_status= "delivered"
 GROUP BY order_month, order_year;
 ```
 
-### 7. Calculated the estimated delivered date for each month
+### 7. On which days were orders delayed beyond the expected delivery date?
 ```sql
 SELECT
 order_id,
