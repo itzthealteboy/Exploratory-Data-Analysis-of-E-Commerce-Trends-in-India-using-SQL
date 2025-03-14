@@ -12,7 +12,7 @@ The dataset for this project is sourced from the Kaggle dataset:
 - ### 1. Describe the dataset
 - ```sql
   SELECT *
-FROM olist_customers_dataset;
+  FROM olist_customers_dataset;
 ```
 
 - 
