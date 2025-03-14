@@ -11,7 +11,7 @@ The dataset for this project is sourced from the Kaggle dataset:
 - ## Business Problems and Solution
 -
 -  ### 1. Describe the dataset
-- ```sql
+ ```sql
   SELECT *
   FROM olist_customers_dataset;
 ```
