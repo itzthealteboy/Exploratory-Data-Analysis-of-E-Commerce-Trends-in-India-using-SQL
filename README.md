@@ -5,7 +5,7 @@
 This project involves conducting an exploratory data analysis (EDA) on the dataset of an e-commerce platform operating in India. The primary goal is to extract meaningful insights to better understand customer behaviors, product trends, sales patterns, and delivery performance. By utilizing MySQL, the analysis covers various data points, including customer demographics, order details, product popularity, and delivery timelines.
 
 ## Overview
-The goal of this data analysis project is to leverage SQL to gain insights from an e-commerce platform's data in order to improve decision-making, optimize business operations, and enhance customer experience
+The goal of this data analysis project is to leverage SQL to gain insights from an e-commerce platform's data in order to improve decision-making, optimize business operations, and enhance customer experience.
 
 ## Dataset
 The dataset for this project is sourced from the Kaggle dataset:
@@ -119,6 +119,7 @@ This analysis provides a comprehensive view of the E-commerce and can help infor
 
 ## Stay Updated 
 For more projects on SQL, data analysis and other related topics, make sure to follow me on social media
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/olajubu-olasubomi-980418239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **X:** [X](https://x.com/hereherenothere?t=T-3bxqzd1kqp2MpJpXZRuQ&s=09)
+- **LinkedIn:** [Connect with me Professionally](https://www.linkedin.com/in/olajubu-olasubomi-980418239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **X:** [Follow for daily tips and update](https://x.com/hereherenothere?t=T-3bxqzd1kqp2MpJpXZRuQ&s=09)
 
+Thank you for your support, and I look forward to connnecting with you.
